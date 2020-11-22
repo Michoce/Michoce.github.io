@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michoce.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-22T11:24:46.756Z</updated>
+    <updated>2020-11-22T11:43:55.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michoce.github.io"/>
     <link rel="self" href="https://Michoce.github.io/atom.xml"/>
@@ -11,16 +11,18 @@
     <icon>https://Michoce.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[利用量子纠缠实现量子隐形传态]]></title>
+        <title type="html"><![CDATA[竞赛作品“Heat Bank”]]></title>
         <id>https://Michoce.github.io/post/li-yong-liang-zi-jiu-chan-shi-xian-liang-zi-yin-xing-chuan-tai/</id>
         <link href="https://Michoce.github.io/post/li-yong-liang-zi-jiu-chan-shi-xian-liang-zi-yin-xing-chuan-tai/">
         </link>
         <updated>2020-11-22T07:54:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是一个有关Alice与Bob的故事……</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是一个有关Alice与Bob的故事……</p>
-<!-- more -->
-<p>Alice有粒子a与b，Bob有粒子c，其中粒子b与c事先已制备在纠缠态</p>
+        <content type="html"><![CDATA[<p>第一个有所收获的科研经历（尽管因为20年疫情影响了正常的实验开展<br>
+背景<br>
+<img src="https://Michoce.github.io/post-images/1606045414965.png" alt="" loading="lazy"><br>
+思路<br>
+<img src="https://Michoce.github.io/post-images/1606045419979.png" alt="" loading="lazy"><br>
+专利<br>
+<img src="https://Michoce.github.io/post-images/1606045425380.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
