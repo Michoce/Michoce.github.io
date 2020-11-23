@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michoce.github.io</id>
     <title>Michoce&apos;s blog</title>
-    <updated>2020-11-23T05:57:39.786Z</updated>
+    <updated>2020-11-23T06:33:27.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michoce.github.io"/>
     <link rel="self" href="https://Michoce.github.io/atom.xml"/>
@@ -23,41 +23,6 @@
 <img src="https://Michoce.github.io/post-images/1606045419979.png" alt="" loading="lazy"><br>
 专利<br>
 <img src="https://Michoce.github.io/post-images/1606045425380.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建记录]]></title>
-        <id>https://Michoce.github.io/post/hello-gridea/</id>
-        <link href="https://Michoce.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>本网页是用Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
-✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
-第一步参考https://pages.github.com。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>本网页是用Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
-✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
-第一步参考https://pages.github.com。</p>
-<!-- more -->
-<p>个人在Git pages的建立过程中遇到的一些情况和建议：Clone the repository不能再网页上进行操作，需要git或者下载desktop（建议后者）。Create an index file时，可以选择在github网页上添加file，需将写入代码的.txt文件后缀改为.html。<br>
-<a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<p>##软广👇<br>
-📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃<br>
-未来，它一定会成为你离不开的伙伴<br>
-尽情发挥你的才华吧！<br>
-😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
