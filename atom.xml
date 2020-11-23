@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michoce.github.io</id>
     <title>Michoce&apos;s blog</title>
-    <updated>2020-11-22T12:08:09.494Z</updated>
+    <updated>2020-11-23T05:39:30.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michoce.github.io"/>
     <link rel="self" href="https://Michoce.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://Michoce.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Michoce&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[竞赛作品“Heat Bank”]]></title>
+        <title type="html"><![CDATA[“Heat Bank”]]></title>
         <id>https://Michoce.github.io/post/li-yong-liang-zi-jiu-chan-shi-xian-liang-zi-yin-xing-chuan-tai/</id>
         <link href="https://Michoce.github.io/post/li-yong-liang-zi-jiu-chan-shi-xian-liang-zi-yin-xing-chuan-tai/">
         </link>
         <updated>2020-11-22T07:54:08.000Z</updated>
-        <content type="html"><![CDATA[<p>第一个有所收获的科研经历（尽管因为20年疫情影响了正常的实验开展<br>
+        <content type="html"><![CDATA[<p>（尽管因为20年疫情影响了正常的实验<br>
 背景<br>
 <img src="https://Michoce.github.io/post-images/1606045414965.png" alt="" loading="lazy"><br>
 思路<br>
@@ -26,16 +26,21 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[所用搭建工具介绍（软广]]></title>
+        <title type="html"><![CDATA[搭建记录]]></title>
         <id>https://Michoce.github.io/post/hello-gridea/</id>
         <link href="https://Michoce.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。</p>
+        <summary type="html"><![CDATA[<p>Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
+✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
+第一步参考https://pages.github.com。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。</p>
+        <content type="html"><![CDATA[<p>Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
+✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
+第一步参考https://pages.github.com。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<p>个人在Git pages的建立过程中遇到的一些情况和建议：2中的Clone the repository不能再网页上进行操作，需要git或者下载desktop（建议后者）。到Create an index file时，可以选择在github网页上添加file，需将写入代码的.txt文件后缀改为.html。<br>
+<a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
 <h2 id="特性">特性👇</h2>
