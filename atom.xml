@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michoce.github.io</id>
     <title>Michoce&apos;s blog</title>
-    <updated>2020-11-23T15:07:22.953Z</updated>
+    <updated>2020-11-23T15:09:33.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michoce.github.io"/>
     <link rel="self" href="https://Michoce.github.io/atom.xml"/>
@@ -16,16 +16,16 @@
         <link href="https://Michoce.github.io/post/li-yong-liang-zi-jiu-chan-shi-xian-liang-zi-yin-xing-chuan-tai/">
         </link>
         <updated>2020-11-22T07:54:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>先贴点旧知识成果吧</p>
+        <summary type="html"><![CDATA[<p>先贴点旧知识吧</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>先贴点旧知识成果吧</p>
+        <content type="html"><![CDATA[<p>先贴点旧知识吧</p>
 <!-- more -->
-<p>“Heat Bank”是一种梯级蓄热的稳定供热装置（此处省略...选了下面三张图做简单介绍：<br>
+<p>“Heat Bank”是一种梯级蓄热的稳定供热装置。选了下面三张图做简单介绍：<br>
 背景<br>
 <img src="https://Michoce.github.io/post-images/1606045414965.png" alt="" loading="lazy"><br>
 思路<br>
 <img src="https://Michoce.github.io/post-images/1606045419979.png" alt="" loading="lazy"><br>
-发明专利 202010818337.9<br>
+发明专利 （受理号：202010818337.9）<br>
 <img src="https://Michoce.github.io/post-images/1606045425380.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
@@ -35,11 +35,13 @@
         <link href="https://Michoce.github.io/post/introduction/">
         </link>
         <updated>2020-11-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>本网页是用Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
+        <summary type="html"><![CDATA[<p>首先，请移步http://996.lcclyy.icu；（by Chen my son），搭建之源<br>
+本网页是用Github Pages+Gridea做出来的，尝试成功但还没开通gitalk的评论功能。<br>
 ✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
 第一步参考https://pages.github.com。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>本网页是用Github Pages+Gridea做出来的，但还没开通gitalk的评论功能。<br>
+        <content type="html"><![CDATA[<p>首先，请移步http://996.lcclyy.icu；（by Chen my son），搭建之源<br>
+本网页是用Github Pages+Gridea做出来的，尝试成功但还没开通gitalk的评论功能。<br>
 ✍️  从几个blog平台中选择了<strong>Gridea</strong>客户端，因为个人感觉编辑器与写码门槛都比较合适。<br>
 第一步参考https://pages.github.com。</p>
 <!-- more -->
